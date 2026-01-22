@@ -34,19 +34,23 @@ This project focuses on layout accuracy, clean code structure, and frontend best
 ## 📂 Project Structure
 amazon-clone/
 │
+
 ├── index.html
+
 ├── style.css
+
 ├── more items/
 │ ├── logo.png
 │ ├── gaming-img.jpg
 │ └── more images ...
-│
+
 ├── screenshots/
-│ ├── main.png
+│ ├── home.png
 │ ├── products.png
 │ └── footer.png
-│
+
 └── README.md
+
 ---
 
 ## 🎯 Purpose of This Project
@@ -63,7 +67,7 @@ This project was created to:
 
 ## 📸 Preview
 
-<img src="screenshots/main.png" width="400" alt="Main Screenshot">
+<img src="screenshots/home.png" width="400" alt="Main Home Screenshot">
 <img src="screenshots/products.png" width="400" alt="Products Screenshot">
 <img src="screenshots/footer.png" width="400" alt="Footer Screenshot">
 
