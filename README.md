@@ -40,8 +40,12 @@ amazon-clone/
 │ ├── logo.png
 │ ├── gaming-img.jpg
 │ ├── more images ...
-│
+├──screenshots/
+│ ├── main.png
+│ ├── products.png
+│ ├── footer.png
 └── README.md
+
 ---
 
 ## 🎯 Purpose of This Project
